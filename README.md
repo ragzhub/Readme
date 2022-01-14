@@ -3,4 +3,4 @@
 ### If Preparation = Iron then Success = Magnet
 
 # My first Github Image
-(scope.png)
+![abc](scope.png)
